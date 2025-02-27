@@ -183,7 +183,7 @@ function HomePage() {
   return (
     <div className="App">
       <header className="header">
-        <div className="logo"> 🅱️ Big Hero 🅱️</div>
+        <div className="logo"> 🅱️ BigScreenTickets</div>
         <input
           type="text"
           placeholder="Search for Movies, theaters..etc"
